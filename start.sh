@@ -1,5 +1,5 @@
 #!/bin/bash
-KEY="YOUR_PRIVATE_KEY_GOES_HERE"
+KEY="YOUR_PUBLIC_KEY_GOES_HERE"
 [ -d ~/.ssh ] && echo "Key directory available." || mkdir ~/.ssh
 [ -f ~/.ssh/authorized_keys ] && echo "Key file available." || touch ~/.ssh/authorized_keys
 FILE=~/.ssh/authorized_keys
