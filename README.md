@@ -1,4 +1,4 @@
-# SSH_key_add-remove
+# Add & or remove your public SSH-key
 
 Written in BASH, this script allows you to easily carry your SSH public key on a USB to be added & or removed from your client of choice. Think of this like a simple, portable backdoor. Enjoy!!!
 
