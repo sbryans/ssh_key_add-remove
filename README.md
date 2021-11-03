@@ -6,18 +6,18 @@ Written in BASH, this script allows you to easily carry your SSH public key on a
 
 ## How to install:
 
-1. Add your public SSH key to the start.sh BASH file.
-2. Launch the **start.sh** BASH file via the GUI or run it via the terminal...
+1. Add your public SSH key to the start.sh BASH file
+2. Launch the **start.sh** BASH file via the GUI or run it via the terminal
 ``` 
 sh start.sh
 ```
 
 ## How to remove:
 
-1. Add your public SSH key to the stop.sh BASH file.
-2. Launch the **stop.sh** BASH file via the GUI or run it via the terminal...
+1. Add your public SSH key to the stop.sh BASH file
+2. Launch the **stop.sh** BASH file via the GUI or run it via the terminal
 ```
 sh stop.sh
 ```
 
-> Use freely, responsibly & at your own risk.
+> Use freely, responsibly & at your own discretion.
